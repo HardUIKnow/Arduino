@@ -1,3 +1,5 @@
 Readme text for adc_testing_c_code
 
-Further information will be put later...
+Further information will be put later 
+about the code
+
