@@ -1,5 +1,10 @@
 Readme text for adc_testing_c_code
 
-Further information will be put later 
+Further explanation will be put later 
 about the code
+
+* adc prescaler 
+* adc channel mux
+* adc conversion result
+
 
