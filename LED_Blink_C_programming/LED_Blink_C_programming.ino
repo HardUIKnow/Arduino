@@ -1,7 +1,9 @@
 /* this an exemple of arduino programming
 using real microcontroler programming
-with C instruction int the typical
+with C instruction over the typical
 LED blinking exemple...
+compiled sketch is about 210+ byte
+where the original arduino one is 1020+ byte
 Added by HardUIKnow
 */
 
